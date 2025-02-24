@@ -93,8 +93,8 @@ The script includes error handling for:
 ## API Documentation
 
 For reference, the following API endpoints are used, below is the link to the API documentation for Vision One Workload Security.
-https://cloudone.trendmicro.com/docs/workload-security/api-reference/tag/Computers#operation/searchComputers
-https://cloudone.trendmicro.com/docs/workload-security/api-reference/tag/Computers#operation/modifyComputer
+- Search Computers: https://cloudone.trendmicro.com/docs/workload-security/api-reference/tag/Computers#operation/searchComputers
+- Modify Computer: https://cloudone.trendmicro.com/docs/workload-security/api-reference/tag/Computers#operation/modifyComputer
 
 ## Notes
 
