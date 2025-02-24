@@ -1,0 +1,6 @@
+hostname,application_name
+webserver00.example.com, Python Web Server (Testing)
+webserver01.example.com,Apache Web Server (Production)
+dbserver02.example.com,Oracle Database (Finance)
+appserver03.example.com,SAP ERP (Production)
+testserver04.example.com,Jenkins CI/CD
